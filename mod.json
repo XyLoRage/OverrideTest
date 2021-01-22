@@ -1,0 +1,8 @@
+name: XyLos-Override Test
+displayName: Override Test
+author: XyLo
+description: Override boi
+version: "0.1"
+hidden: true
+minGameVersion: "122.0"
+dependencies: [ ]

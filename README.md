@@ -1,2 +1,1 @@
-# OverrideTest
-Mindustry sprite override
+# texture pack for mindustry
